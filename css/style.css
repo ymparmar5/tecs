@@ -114,26 +114,7 @@ body{
     left: 0;
 }
 
-.header .navbar ul{
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
 
-.header .navbar ul li{
-    margin: 0 1.5rem;
-}
-
-.header .navbar ul li a{
-    font-size: 2rem;
-    color: #fff;
-}
-
-.header .navbar ul li a:hover{
-    color: #00bfff;
-    text-decoration: underline;
-}
 
 
 .header .fa-bars{
