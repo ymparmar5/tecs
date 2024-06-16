@@ -32,42 +32,9 @@ body{
 }
 
 .header .logo img{
-    width: 20%;
     height: 3rem;
     top: 0;
     left: 0;
-}
-
-.header .navbar ul{
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-.header .navbar ul li{
-    margin: 0 1.5rem;
-}
-
-.header .navbar ul li a{
-    font-size: 2rem;
-    color: #fff;
-}
-
-.header .navbar ul li a:hover{
-    color: #00bfff;
-    text-decoration: underline;
-}
-
-.header .logo i{
-    padding: 0.5rem;
-}
-
-.header .fa-bars{
-    color: #fff;
-    cursor: pointer;
-    font-size: 3rem;
-    display: none;
 }
 
 .home{
