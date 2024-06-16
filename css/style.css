@@ -109,8 +109,7 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
-    height: 4rem;
+    height: 5rem;
     top: 0;
     left: 0;
 }
@@ -136,9 +135,6 @@ body{
     text-decoration: underline;
 }
 
-.header .logo i{
-    padding: 0.5rem;
-}
 
 .header .fa-bars{
     color: #fff;
