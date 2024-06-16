@@ -29,7 +29,6 @@ body{
     left: 0;
     z-index: 100;
     position: fixed;
-    background:transperent;
 }
 
 .header .logo img{
